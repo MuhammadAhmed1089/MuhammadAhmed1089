@@ -14,8 +14,8 @@
 
 name        : Muhammad Ahmed
 location    : Lahore, Pakistan 🇵🇰
-institution : FAST-NUCES | CS Sophomore
-cgpa        : 3.68 / 4.0
+institution : FAST-NUCES | CS Junior | AI Research | NLP
+cgpa        : 3.62 / 4.0
 
 current_focus:
   - Artificial Intelligence & Machine Learning
@@ -33,7 +33,7 @@ superpower  : Turning complex problems into elegant, working systems
 
 > *"The next wave of engineering belongs to those who understand both the silicon and the signal."*
 
-I'm a **CS sophomore at FAST-NUCES** with a deep obsession for how intelligent systems are architected — not just how they work, but *why* they work the way they do.
+I'm a **CS junior at FAST-NUCES** with a deep obsession for how intelligent systems are architected — not just how they work, but *why* they work the way they do.
 
 My journey started at the lowest layers: **8088 Assembly**, raw memory, and registers. It climbed through **C++**, **data structures**, **SFML graphics**, and **OOP** — and now it's rapidly accelerating into **AI engineering**, **concurrent pipelines**, and **intelligent system design**.
 
